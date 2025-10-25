@@ -1,5 +1,5 @@
 🎮 Projeto: Jogo da Velha (Tic-Tac-Toe)
-Você desenvolveu um jogo da velha totalmente funcional usando HTML, CSS e JavaScript.
+ Um jogo da velha totalmente funcional feito com HTML, CSS e JavaScript.
 A interface mostra o tabuleiro com 9 casas onde dois jogadores alternam suas jogadas, marcando X e O.
 
 ✅ Funcionalidades principais:

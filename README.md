@@ -13,5 +13,5 @@ A interface mostra o tabuleiro com 9 casas onde dois jogadores alternam suas jog
 -Atualização dinâmica do jogador atual na tela
 
 🔗 Acesse o projeto aqui:
-
+ https://pedrolucasbragaximenes.github.io/Projeto-Jogo-da-Velha/
 
